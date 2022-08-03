@@ -1,0 +1,41 @@
+@tailwind base;
+
+@layer base {
+  /* a11y  */
+  a {
+    @apply focus:border focus:border-dashed focus:border-tabcolor focus:outline-none;
+  }
+  form button {
+    @apply focus:border focus:border-dashed focus:border-tabcolor focus:outline-none;
+  }
+
+  /* form  */
+  label {
+  }
+
+  input {
+    @apply block
+    w-full
+    rounded-sm
+    border-red-200
+    border-gray-300
+    shadow-sm
+    required:mt-1
+    focus:border-teal-500 focus:ring focus:ring-teal-200 focus:ring-opacity-50;
+  }
+
+  input[type="checkbox"] {
+  }
+
+  input[type="radio"] {
+  }
+
+  select {
+  }
+
+  textarea {
+  }
+
+  fieldset {
+  }
+}

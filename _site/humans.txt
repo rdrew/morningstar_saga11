@@ -1,0 +1,33 @@
+Morningstar Enterprises
+
+Eleventy v1.0.1
+saga11: alpha 2
+---
+
+/* TEAM */
+Morten Birch aka mortendk
+From: Copenhagen, Denmark.
+
+/* THANKS */
+
+/* SITE */
+Standards: HTML5, CSS3
+Build on: 11ty, Vanilla js, Tailwind 3
+
+/* Software + Assets */
+vscode: https://code.visualstudio.com
+responsively: https://responsively.app
+
+https://saga11.dev
+https://11ty.dev
+https://tailwindcss.com
+https://vanilla-js.com
+
+Images:
+https://unsplash.com/
+https://heroicons.com/
+
+
+---
+Build:
+Wednesday 3. August 2022 13:46
